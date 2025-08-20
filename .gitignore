@@ -2,4 +2,5 @@
 *.subject.pdf
 */ft_boolean.c
 */ft_abs.c
-*/*.c
+*/ft_point.c
+*/ft_stock_str.h
